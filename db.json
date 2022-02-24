@@ -1,0 +1,43 @@
+{
+  "books": [
+      {
+          "id":"1",
+          "title": "Inner Engineering",
+          "author":"Sadguru",
+          "genre": "Spiritual science",
+          "summary": "Gives an insight of one-self"
+
+      },
+      {
+          "id":"2",
+          "title": "Ikigai",
+          "author":"Joey Tribiani",
+          "genre": "Narrative",
+          "summary": "Tips for a happy and healthy life"
+
+      },
+      {
+          "id":"3",
+          "title": "Success Story",
+          "author":"Ross Geller",
+          "genre": "Spiritual science",
+          "summary": "Routes and guidance to be successful in one's life"
+
+      },
+      {
+          "id":"4",
+          "title": "Think Straight",
+          "author":"K Priyadarshi",
+          "genre": "Narrative",
+          "summary": "Science that teaches to mold our thoughts"
+
+      },
+      {
+          "id":"5",
+          "title": "Music World",
+          "author":"Phoebe Buffay",
+          "genre": "Music",
+          "summary": "Learning way and enhancing one's instrumental skills"
+
+      }   ]
+}

@@ -1,0 +1,43 @@
+{
+    "books": [
+        {
+            "id":"1",
+            "title": "Inner Engineering",
+            "author":"Sadguru",
+            "genre": "Spiritual science",
+            "summary": "Gives an insight of one-self"
+
+        },
+        {
+            "id":"2",
+            "title": "Ikigai",
+            "author":"Jo san",
+            "genre": "Narrative",
+            "summary": "Tips for a happy and healthy life"
+
+        },
+        {
+            "id":"3",
+            "title": "Inner Engineering",
+            "author":"Sadguru",
+            "genre": "Spiritual science",
+            "summary": "Gives an insight of one-self"
+
+        },
+        {
+            "id":"4",
+            "title": "Inner Engineering",
+            "author":"Sadguru",
+            "genre": "Spiritual science",
+            "summary": "Gives an insight of one-self"
+
+        },
+        {
+            "id":"5",
+            "title": "Inner Engineering",
+            "author":"Sadguru",
+            "genre": "Spiritual science",
+            "summary": "Gives an insight of one-self"
+
+        }   ]
+}

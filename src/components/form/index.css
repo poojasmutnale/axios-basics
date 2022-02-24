@@ -1,0 +1,28 @@
+.addBook {
+    flex: 0.2;
+    border:1px solid lightgray;
+    color: rgb(255, 251, 251);
+    backdrop-filter: blur(10px);
+    font-weight: bold;
+    height:389px;
+    padding:1rem 2rem;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+}
+
+input[type="text"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.addBook button{border-radius: 10px; 
+    border:1px solid lightgray;
+    box-shadow: -2px 2px 4px 2px gray;
+    background-color: rgb(10, 163, 10);
+    color:white;
+}
+label {
+    width: 100%;
+}
